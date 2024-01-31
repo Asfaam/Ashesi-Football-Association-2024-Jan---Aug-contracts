@@ -21,26 +21,25 @@ NUMBER OF PLAYERS UNDER CONTRACT: .....
 3. Clovis Mushagalusa Cirubakaderha            -                         3. Thursday, 7th September 2023     -              3. 1 year
 4. Abraham Ansah                               -                         4. Tuesday, 5th September 2023      -              4. 1 year
 5. Samuel Inkoom                               -                         5. Thursday, 3rd August 2023        -              5. 1 year
-7. Sanjeevan Allotey                           -                         7. Sunday, 3rd September 2023       -              7. 1 year
-8. Collins Wanga                               -                         8. Thursday, 31st August 2023       -              8. 1 year 
-9. Jared Yoofi Assan                           -                         9. Thursday, 31st August 2023       -              9. 1 year
-10. Adam Tahou                                 -                         10. January, 2024                   -              10. Till September
-11. Gabriel Nyarko                             -                         11. Tuesday, 5th September 2023     -              11. 1 year
-14. Ayub Jillo                                 -                         14. Friday, 8th September 2023      -              14. 1 year
-15. Henry Baiden                               -                         15. Friday, 8th September 2023      -              15. 1 year
-16. Roland Akwei-Sekere                        -                         16. Friday, 8th September 2023      -              16. 1 year
-17. Joshua Agyemang                            -                         17. Friday, 8th September 2023      -              17. 1 year
-18. Ousmano Boubasar Bako                      -                         18.  January, 2024                  -              18. Till September
-19. Saidou Moustapha                           -                         19. January, 2024                   -              19. Till September
-20. Mukaila Shittu Abdoul-Raouf                -                         20. January, 2024                   -              20. Till September
-21. Benjamin Charles                           -                         21. January, 2024                   -              21. Till September
-22. Roland Akwei-Sekyere                       -                         22. January, 2024                   -              22. Till September
-23. James Gyang                                -                         23. January, 2024                   -              23. Till September
-24. Prince Osei                                -                         24. January, 2024                   -              24. Till September
-25. Adboul Nazzer                              -                         25. January, 2024                   -              25. Till September
-26. Nathaniel Mawuko Ameveji                   -                         26. January, 2024                   -              26. Till September
-27. Engmann Edwin                              -                         27. January, 2024                   -              27. Till September
-28. Isaac Mumuni                               -                         28. January, 2024                   -              28. Till September
-29. Imres Kenne Tsanguo                        -                         29. January, 2024                   -              29. Till September
-30. Adboul Moutalab                            -                         30. January, 2024                   -              30. Till September
-31. Johnson Pendaeli                           -                         31. January, 2024                   -              31. Till September
+6. Sanjeevan Allotey                           -                         7. Sunday, 3rd September 2023       -              7. 1 year
+7. Collins Wanga                               -                         8. Thursday, 31st August 2023       -              8. 1 year 
+8. Jared Yoofi Assan                           -                         9. Thursday, 31st August 2023       -              9. 1 year
+9. Adam Tahou                                 -                         10. January, 2024                   -              10. Till September
+10. Gabriel Nyarko                             -                         11. Tuesday, 5th September 2023     -              11. 1 year
+11. Ayub Jillo                                 -                         14. Friday, 8th September 2023      -              14. 1 year
+12. Henry Baiden                               -                         15. Friday, 8th September 2023      -              15. 1 year
+13. Roland Akwei-Sekere                        -                         16. Friday, 8th September 2023      -              16. 1 year
+14. Joshua Agyemang                            -                         17. Friday, 8th September 2023      -              17. 1 year
+15. Ousmano Boubasar Bako                      -                         18.  January, 2024                  -              18. Till September
+16. Saidou Moustapha                           -                         19. January, 2024                   -              19. Till September
+17. Mukaila Shittu Abdoul-Raouf                -                         20. January, 2024                   -              20. Till September
+18. Benjamin Charles                           -                         21. January, 2024                   -              21. Till September
+19. James Gyang                                -                         23. January, 2024                   -              23. Till September
+20. Prince Osei                                -                         24. January, 2024                   -              24. Till September
+21. Adboul Nazzer                              -                         25. January, 2024                   -              25. Till September
+22. Nathaniel Mawuko Ameveji                   -                         26. January, 2024                   -              26. Till September
+23. Engmann Edwin                              -                         27. January, 2024                   -              27. Till September
+24. Isaac Mumuni                               -                         28. January, 2024                   -              28. Till September
+25. Imres Kenne Tsanguo                        -                         29. January, 2024                   -              29. Till September
+26. Adboul Moutalab                            -                         30. January, 2024                   -              30. Till September
+27. Johnson Pendaeli                           -                         31. January, 2024                   -              31. Till September
